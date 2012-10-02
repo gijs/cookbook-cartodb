@@ -1,7 +1,9 @@
 
 # CartoDB cookbook
 
-This cookbook installs and condigures [CartoDB](https://github.com/Vizzuality/cartodb)
+This cookbook installs and configures [CartoDB](https://github.com/Vizzuality/cartodb)
+
+*Status*: Work In Progress
 
 # Usage
 
